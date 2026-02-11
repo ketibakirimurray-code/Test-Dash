@@ -35,6 +35,19 @@ A collection of interactive data visualization examples using Plotly and Dash.
   - KPI cards and multiple chart types
   - Professional styling
 
+### Banking & Finance Application
+- **raroc_bank_model.py** - RAROC Model for Commercial Term Loan Pricing:
+  - Phase 1: Cash flow analysis and present value calculations
+  - Calculate Interest Income/Expense with FTP (Funds Transfer Pricing)
+  - Non-Interest Income/Expense tracking
+  - Full amortization schedule (P&I calculations)
+  - Present value discounting
+  - PD (Probability of Default) scale: 1-13
+  - LGD (Loss Given Default) scale: A-H
+  - Manual entry or CSV file upload
+  - Interactive visualizations and export to CSV
+  - **Sample data:** `sample_loan_data.csv`
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -70,6 +83,9 @@ python dash_app.py
 
 # Or run the advanced dashboard:
 python dash_advanced.py
+
+# Or run the RAROC banking model:
+python raroc_bank_model.py
 ```
 
 ## 📦 Dependencies
