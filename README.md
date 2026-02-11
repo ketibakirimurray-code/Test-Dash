@@ -2,6 +2,8 @@
 
 A collection of interactive data visualization examples using Plotly and Dash.
 
+> 📚 **New to this?** Check out our [Simple Beginner's Guide](HOW_WE_MADE_THIS.md) - written so anyone can understand it!
+
 ## 📊 What's Included
 
 ### Basic Examples
